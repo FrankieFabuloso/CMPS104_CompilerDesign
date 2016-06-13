@@ -1,0 +1,9 @@
+stringset[   0]:    7214516809097879545 0x7fe589500010->"I"
+stringset[   1]:    8421574788373437373 0x7fe589500050->"like"
+stringset[   4]:    6035034059037395064 0x7fe589500140->"me."
+                    4901860084592977323 0x7fe589500110->"likes"
+                    5630484314081143994 0x7fe5895000e0->"Cheese"
+stringset[   9]:    3527492399727234981 0x7fe589500080->"cheese"
+load_factor = 0.545
+bucket_count = 11
+max_bucket_size = 3
